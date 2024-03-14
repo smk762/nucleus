@@ -1,4 +1,4 @@
-module nucleus
+module github.com/smk762/nucleus
 
 go 1.18
 
